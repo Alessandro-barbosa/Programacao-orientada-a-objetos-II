@@ -1,0 +1,6 @@
+Deposito de 50 Feito com sucesso!
+Deposito de 50 Feito com sucesso!
+Saque de {valor} efetuado com sucesso!
+Deposito de 50 Feito com sucesso!
+Saque de 60 efetuado com sucesso!
+Deposito de 10 Feito com sucesso!
