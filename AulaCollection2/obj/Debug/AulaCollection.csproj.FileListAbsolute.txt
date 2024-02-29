@@ -1,0 +1,15 @@
+C:\DevC\AulaCollection\bin\Debug\AulaCollection.exe.config
+C:\DevC\AulaCollection\bin\Debug\AulaCollection.exe
+C:\DevC\AulaCollection\bin\Debug\AulaCollection.pdb
+C:\DevC\AulaCollection\obj\Debug\AulaCollection.csproj.AssemblyReference.cache
+C:\DevC\AulaCollection\obj\Debug\AulaCollection.csproj.SuggestedBindingRedirects.cache
+C:\DevC\AulaCollection\obj\Debug\AulaCollection.csproj.CoreCompileInputs.cache
+C:\DevC\AulaCollection\obj\Debug\AulaCollection.exe
+C:\DevC\AulaCollection\obj\Debug\AulaCollection.pdb
+E:\Downloads\UVV\4 Semestre\Programação orientada a objetos II\AulaCollection\bin\Debug\AulaCollection.exe.config
+E:\Downloads\UVV\4 Semestre\Programação orientada a objetos II\AulaCollection\bin\Debug\AulaCollection.exe
+E:\Downloads\UVV\4 Semestre\Programação orientada a objetos II\AulaCollection\bin\Debug\AulaCollection.pdb
+E:\Downloads\UVV\4 Semestre\Programação orientada a objetos II\AulaCollection\obj\Debug\AulaCollection.csproj.AssemblyReference.cache
+E:\Downloads\UVV\4 Semestre\Programação orientada a objetos II\AulaCollection\obj\Debug\AulaCollection.csproj.CoreCompileInputs.cache
+E:\Downloads\UVV\4 Semestre\Programação orientada a objetos II\AulaCollection\obj\Debug\AulaCollection.exe
+E:\Downloads\UVV\4 Semestre\Programação orientada a objetos II\AulaCollection\obj\Debug\AulaCollection.pdb
