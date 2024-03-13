@@ -1,0 +1,8 @@
+C:\DevC\RelacionamentoEntreClasses\bin\Debug\RelacionamentoEntreClasses.exe.config
+C:\DevC\RelacionamentoEntreClasses\bin\Debug\RelacionamentoEntreClasses.exe
+C:\DevC\RelacionamentoEntreClasses\bin\Debug\RelacionamentoEntreClasses.pdb
+C:\DevC\RelacionamentoEntreClasses\obj\Debug\RelacionamentoEntreClasses.csproj.AssemblyReference.cache
+C:\DevC\RelacionamentoEntreClasses\obj\Debug\RelacionamentoEntreClasses.csproj.SuggestedBindingRedirects.cache
+C:\DevC\RelacionamentoEntreClasses\obj\Debug\RelacionamentoEntreClasses.csproj.CoreCompileInputs.cache
+C:\DevC\RelacionamentoEntreClasses\obj\Debug\RelacionamentoEntreClasses.exe
+C:\DevC\RelacionamentoEntreClasses\obj\Debug\RelacionamentoEntreClasses.pdb
