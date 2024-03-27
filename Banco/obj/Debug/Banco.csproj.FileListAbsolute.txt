@@ -1,0 +1,7 @@
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\Banco\bin\Debug\Banco.exe.config
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\Banco\bin\Debug\Banco.exe
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\Banco\bin\Debug\Banco.pdb
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\Banco\obj\Debug\Banco.exe
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\Banco\obj\Debug\Banco.pdb
