@@ -1,0 +1,11 @@
+C:\DevC\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe.config
+C:\DevC\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe
+C:\DevC\AgendaTelefonica\bin\Debug\AgendaTelefonica.pdb
+C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.AssemblyReference.cache
+C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.SuggestedBindingRedirects.cache
+C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.Form1.resources
+C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.Properties.Resources.resources
+C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.GenerateResource.cache
+C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.exe
+C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.pdb
