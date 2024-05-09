@@ -1,0 +1,11 @@
+C:\DevC\Selecao\bin\Debug\Selecao.exe.config
+C:\DevC\Selecao\bin\Debug\Selecao.exe
+C:\DevC\Selecao\bin\Debug\Selecao.pdb
+C:\DevC\Selecao\obj\Debug\Selecao.csproj.AssemblyReference.cache
+C:\DevC\Selecao\obj\Debug\Selecao.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Selecao\obj\Debug\Selecao.Form1.resources
+C:\DevC\Selecao\obj\Debug\Selecao.Properties.Resources.resources
+C:\DevC\Selecao\obj\Debug\Selecao.csproj.GenerateResource.cache
+C:\DevC\Selecao\obj\Debug\Selecao.csproj.CoreCompileInputs.cache
+C:\DevC\Selecao\obj\Debug\Selecao.exe
+C:\DevC\Selecao\obj\Debug\Selecao.pdb
