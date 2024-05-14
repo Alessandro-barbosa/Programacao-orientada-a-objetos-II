@@ -9,3 +9,13 @@ C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.GenerateResource.cach
 C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.CoreCompileInputs.cache
 C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.exe
 C:\DevC\AgendaTelefonica\obj\Debug\AgendaTelefonica.pdb
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\AgendaTelefonica\obj\Debug\AgendaTelefonica.Form1.resources
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\AgendaTelefonica\obj\Debug\AgendaTelefonica.Properties.Resources.resources
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.GenerateResource.cache
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\AgendaTelefonica\obj\Debug\AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\AgendaTelefonica\obj\Debug\AgendaTelefonica.exe
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\AgendaTelefonica\obj\Debug\AgendaTelefonica.pdb
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe.config
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe
+C:\Users\aless\OneDrive\Área de Trabalho\Arquivos Importantes\prog\POOII\AgendaTelefonica\bin\Debug\AgendaTelefonica.pdb

@@ -135,7 +135,7 @@
             // showTxtTipo
             // 
             this.showTxtTipo.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.showTxtTipo.Location = new System.Drawing.Point(357, 277);
+            this.showTxtTipo.Location = new System.Drawing.Point(357, 315);
             this.showTxtTipo.Name = "showTxtTipo";
             this.showTxtTipo.ReadOnly = true;
             this.showTxtTipo.Size = new System.Drawing.Size(282, 27);
@@ -145,7 +145,7 @@
             // showTxtTelefone
             // 
             this.showTxtTelefone.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.showTxtTelefone.Location = new System.Drawing.Point(357, 251);
+            this.showTxtTelefone.Location = new System.Drawing.Point(357, 272);
             this.showTxtTelefone.Name = "showTxtTelefone";
             this.showTxtTelefone.ReadOnly = true;
             this.showTxtTelefone.Size = new System.Drawing.Size(282, 27);
