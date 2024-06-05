@@ -1,0 +1,8 @@
+C:\DevC\DataBase\bin\Debug\DataBase.exe.config
+C:\DevC\DataBase\bin\Debug\DataBase.exe
+C:\DevC\DataBase\bin\Debug\DataBase.pdb
+C:\DevC\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\DevC\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\DevC\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\DevC\DataBase\obj\Debug\DataBase.exe
+C:\DevC\DataBase\obj\Debug\DataBase.pdb
