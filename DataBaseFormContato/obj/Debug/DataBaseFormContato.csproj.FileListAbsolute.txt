@@ -1,0 +1,12 @@
+C:\DevC\DataBaseFormContato\bin\Debug\DataBaseFormContato.exe.config
+C:\DevC\DataBaseFormContato\bin\Debug\DataBaseFormContato.exe
+C:\DevC\DataBaseFormContato\bin\Debug\DataBaseFormContato.pdb
+C:\DevC\DataBaseFormContato\obj\Debug\DataBaseFormContato.csproj.AssemblyReference.cache
+C:\DevC\DataBaseFormContato\obj\Debug\DataBaseFormContato.csproj.SuggestedBindingRedirects.cache
+C:\DevC\DataBaseFormContato\obj\Debug\DataBaseFormContato.Properties.Resources.resources
+C:\DevC\DataBaseFormContato\obj\Debug\DataBaseFormContato.csproj.GenerateResource.cache
+C:\DevC\DataBaseFormContato\obj\Debug\DataBaseFormContato.csproj.CoreCompileInputs.cache
+C:\DevC\DataBaseFormContato\obj\Debug\DataBaseFormContato.exe
+C:\DevC\DataBaseFormContato\obj\Debug\DataBaseFormContato.pdb
+C:\DevC\DataBaseFormContato\obj\Debug\DataBaseFormContato.Form1.resources
+C:\DevC\DataBaseFormContato\obj\Debug\DataBaseFormContato.Form2.resources
