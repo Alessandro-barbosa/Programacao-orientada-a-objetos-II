@@ -1,0 +1,37 @@
+Abri conexão com o banco de dados:
+	conexao.Open();
+
+Para estabelecer conexão com a chave de string:
+	public SqlConnection conexao;
+
+Para criar um comando sql qualquer
+	var selectCmd = conexao.CreateCommand()
+
+Exemplo de um comando para buscar todas as informações em contatos, usando o variável selectCmd:
+	selectCmd.CommandText = "select * FROM Contato";
+
+Para pegar o objeto retornado do comando anterior e seja possível a leitura:
+	SqlDataReader leitorDados = selectCmd.ExecuteReader()
+
+Para percorrer o objeto retornado ao leitorDados:
+	while(leitorDados.Read())
+	Passagem buscando o que quero mostrar que está dentro do leitorDados:
+		var id = leitorDados["id"];
+		var nome = leitorDados["nome"];
+		var numero = leitorDados["numero"];
+
+Exemplo de criação de variáveis por passagem de parâmetros para uma coluna especifica:	
+	var parmNome = new SqlParameter("@Nome", $"{nome}");
+	var parmSobrenome = new SqlParameter("@numero", $"{numero}");
+	
+	insertCmd.Parameters.Add(parmNome);
+	insertCmd.Parameters.Add(parmSobrenome);
+
+	insertCmd.CommandText = ($"INSERT INTO Contato(Nome, numero) VALUES(@nome, @numero)");
+
+Para executar um certo comando Sql, como por exemplo o de inserção:
+	insertCmd.ExecuteNonQuery();
+
+Talvez seja necessário fechar a conexão das buscas e dos leitores;
+	buscarCmd.Cancel();
+	leitorDados.Close();
